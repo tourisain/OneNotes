@@ -1,5 +1,23 @@
 # Changelog
 
+## v1.0.312 (build 312 - 2026-07-13)
+
+### 涓枃鏇存柊璇存槑
+
+**顶栏 UI 优化**
+
+- 顶栏笔记命名和页码显示按钮尺寸缩小，适配旁边按钮，不再遮挡或挤压。
+- 视图菜单移除添加视图标记、智能视图标记、视图标记、书写诊断按钮。
+- 聚焦最新笔迹文本改为聚焦笔迹，添加链接文本改为链接。
+
+### English Release Notes
+
+**Top bar UI polish**
+
+- Shrunk note title and page switcher buttons in top bar to fit adjacent buttons.
+- Removed Add view mark, Smart view marks, View marks, and Writing diagnostics from View menu.
+- Renamed Focus latest stroke to Focus stroke, Add link to Link.
+
 ## v1.0.311 (build 311 - 2026-07-07)
 
 ### 涓枃鏇存柊璇存槑
