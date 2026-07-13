@@ -1,5 +1,49 @@
 # Changelog
 
+## v1.0.311 (build 311 - 2026-07-07)
+
+### 涓枃鏇存柊璇存槑
+
+**功能优化与修复**
+
+- 移除 Markdown 导出/导入功能。
+- 全屏模式优化：移除中间右侧工具栏展开按钮，右上角退出按钮缩小且颜色统一。
+- 首页快捷操作区支持在设置中隐藏/显示，开关位于设置页面文件夹与分组下方。
+
+### English Release Notes
+
+**Feature polish and fixes**
+
+- Removed Markdown export/import feature.
+- Focus mode polish: removed toolbar expand handle, shrunk exit button with consistent colors.
+- Home quick actions strip can now be toggled in Settings under Folders & Groups.
+
+## v1.0.310 (build 310 - 2026-07-07)
+
+### 涓枃鏇存柊璇存槑
+
+**核心功能增强**
+
+- 图片编辑增强：支持透明度、边框、阴影、裁剪和锁定贴纸。
+- 笔记内链接：支持创建笔记间链接，点击跳转到目标笔记。
+- Markdown 导出/导入：支持手写识别转 Markdown 导出，支持导入 Markdown 文件。
+- 批量导出：支持多选笔记批量导出为 PDF 或 ZIP。
+- 全屏/专注模式：一键隐藏工具栏，进入沉浸式书写。
+- 页面缩略图导航：侧边栏页面缩略图列表，支持快速跳转和添加/删除页面。
+- 标尺/量角器增强：角度吸附、刻度数字标签、量角器角度标注。
+
+### English Release Notes
+
+**Core feature enhancements**
+
+- Image editing: opacity, border, shadow, crop, and lock for stickers.
+- Note links: create links between notes with tap-to-navigate.
+- Markdown export/import: OCR-based handwriting-to-Markdown export and Markdown import.
+- Batch export: multi-select notes to export as PDF or ZIP.
+- Focus mode: hide all toolbars for immersive writing.
+- Page thumbnail sidebar: thumbnail list with quick jump and add/delete pages.
+- Ruler/protractor enhancement: angle snapping, tick labels, protractor degree markers.
+
 ## v1.0.309 (build 309 - 2026-07-07)
 
 ### 涓枃鏇存柊璇存槑
