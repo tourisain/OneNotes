@@ -1,5 +1,63 @@
 # Changelog
 
+## v1.0.318 (build 318 - 2026-07-16)
+
+### 涓枃鏇存柊璇存槑
+
+**R8 性能与内存优化**
+
+- R8 全模式 + 启动优化：类重打包、访问修饰符放宽、冗余日志/空检查剥离。
+- Release 构建增强：isDebuggable=false、PNG 压缩、dex 启动优化。
+
+### English Release Notes
+
+**R8 performance & memory optimization**
+
+- R8 full mode + startup optimization: class repackaging, access relaxation, dead log/null-check stripping.
+- Release build hardening: isDebuggable=false, PNG crunching, dex startup optimization.
+
+## v1.0.316 (build 316 - 2026-07-16)
+
+### 涓枃鏇存柊璇存槑
+
+**适配 Android 16（API 36）**
+
+- compileSdk 和 targetSdk 升级至 36，满足 Google Play 目标 API 级别要求。
+
+### English Release Notes
+
+**Target Android 16 (API 36)**
+
+- Upgraded compileSdk and targetSdk to 36 to meet Google Play target API level requirements.
+
+## v1.0.313 (build 313 - 2026-07-14)
+
+### 涓枃鏇存柊璇存槑
+
+**手写笔刷增强**
+
+- 新增圆珠笔和马克笔两种笔刷类型，圆珠笔均匀粗细适合日常书写，马克笔半透明宽笔触适合标注。
+- 笔迹稳定器滑块已加入笔刷面板，三档可调：自然、稳定、极致。
+- 画布背景模板增强：支持横线、方格、点阵、康奈尔、五线谱、计划本等多种模板。
+- 形状完美化增强：绘制形状后停顿自动转化为完美几何图形，新增五边形和星形。
+- 橡皮擦三种模式：笔迹擦除（整笔触碰即删）、像素擦除（仅擦除划过部分）、区域擦除（大面积擦除）。
+- 压力曲线编辑器：支持线性、柔和、强力、硬笔四种预设及自定义控制点拖拽调整。
+- 缩放书写窗口：底部放大视口辅助精细书写，支持缩放倍率调节。
+- 双击画布自适应缩放。
+
+### English Release Notes
+
+**Handwriting brush enhancements**
+
+- New Ballpoint and Marker brush types: Ballpoint with uniform width for daily writing, Marker with semi-transparent broad strokes for annotation.
+- Stroke stabilizer slider added to brush panel with three levels: Natural, Stable, Extreme.
+- Enhanced canvas background templates: lined, grid, dots, Cornell, music, planner, and more.
+- Enhanced shape perfection: pause after drawing to auto-convert to perfect geometry, new pentagon and star shapes.
+- Three eraser modes: Stroke (delete entire stroke on touch), Pixel (erase only swept portions), Area (broad area erasing).
+- Pressure curve editor: linear, soft, strong, hard presets plus custom control point drag adjustment.
+- Zoom writing window: bottom magnified viewport for fine writing with adjustable zoom factor.
+- Double-tap canvas for adaptive zoom.
+
 ## v1.0.312 (build 312 - 2026-07-13)
 
 ### 涓枃鏇存柊璇存槑
